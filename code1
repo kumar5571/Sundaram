@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses</title>
+</head>
+<body>
+    <table border="2px" align="center" cellpadding="6px">
+<tbody>
+    <tr>
+        <td rowspan="2">UG</td>
+        <td>BE</td>
+        
+    </tr>\
+    <tr>
+        <td>Btech</td>
+        
+    </tr>
+    <tr>
+        <td rowspan="2">PG</td>
+        <td>ME</td>
+    </tr>
+    <tr>
+        <td>Mtech</td>
+        
+    </tr>
+</tbody>
+    </tabl>e  
+</body>
+</html>
